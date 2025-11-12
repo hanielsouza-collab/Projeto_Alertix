@@ -1,4 +1,4 @@
-# 📡 Projeto Alerta
+# 📡 Projeto Alertrix
 
 ## 📘 Descrição
 O projeto alertrix tem como função oferecer uma solução simples e acessível para o monitoramento de ambientes. Ao detectar mudanças bruscas de temperatura no local, ele aciona alertas tanto visuais tanto auditivas para indicar o possível risco.
