@@ -40,7 +40,7 @@ Haniel Sousa<br>
 Mathues Pereira<br>
 Ana Julia de Santana Macedo<br>
 Gabriel Henrique<br>
-Kaique de Sousa<br>
+Kaique de Souza<br>
 
 
 ## 📜 Licença
