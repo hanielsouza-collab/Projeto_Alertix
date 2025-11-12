@@ -34,9 +34,7 @@ Figma — visualização da interface mobile
 https://www.tinkercad.com/things/bBDL6WqanVB-terrific-sango-krunk/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=Ydt3NXnKKyu3FjjI25Rqgyj0pBXO4Co8IkQhQfXzI_w
 
 ## 📱 Interface mobile (Figma)
-
-
-
+https://www.figma.com/design/eeeGzyOnXOLZO0XGXv2VBk/Sem-t%C3%ADtulo?node-id=0-1&t=mfBvn0ShGgfqXtJh-1 <br>
 ## 👨‍💻 Autores
 Haniel Sousa<br>
 Mathues Pereira<br>
