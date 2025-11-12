@@ -37,7 +37,7 @@ https://www.tinkercad.com/things/bBDL6WqanVB-terrific-sango-krunk/editel?returnT
 https://www.figma.com/design/eeeGzyOnXOLZO0XGXv2VBk/Sem-t%C3%ADtulo?node-id=0-1&t=mfBvn0ShGgfqXtJh-1 <br>
 ## 👨‍💻 Autores
 Haniel Sousa<br>
-Mathues Pereira<br>
+Matheus Pereira<br>
 Ana Julia de Santana Macedo<br>
 Gabriel Henrique<br>
 Kaique de Souza<br>
