@@ -38,11 +38,11 @@ https://www.tinkercad.com/things/bBDL6WqanVB-terrific-sango-krunk/editel?returnT
 
 
 ## 👨‍💻 Autores
-Haniel Sousa
-Mathues Pereira
-Ana Julia de Santana Macedo
-Gabriel Henrique
-Kaique de Sousa
+Haniel Sousa<br>
+Mathues Pereira<br>
+Ana Julia de Santana Macedo<br>
+Gabriel Henrique<br>
+Kaique de Sousa<br>
 
 
 ## 📜 Licença
